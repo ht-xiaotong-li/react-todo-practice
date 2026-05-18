@@ -1,2 +1,3 @@
 this is a license file
 hotfix license bugs
+some new features added to this project.
