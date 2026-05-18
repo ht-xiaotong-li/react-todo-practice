@@ -7,3 +7,4 @@ Merge branch test.
 Hot fixxing.
 Upadte from user1.
 Test pull request.
+Fix a bug and release it.
